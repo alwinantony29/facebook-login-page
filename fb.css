@@ -1,0 +1,121 @@
+.leftdiv{
+    width: 57%;
+    height: 800px;
+    float: left;
+    background-color: rgb(247, 247, 247);
+}
+.rightdiv{
+    width: 43%;
+    height: 800px;
+    float: left;
+    
+   
+    background-color: rgb(247, 247, 247);
+}
+.rootdiv{
+   width: auto;
+   height:800px ;
+    
+}
+.image{
+    height: 132px;
+    margin-left: 137px;
+    margin-top: 257px;
+}
+.label{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 176px;
+    margin-top:0px;
+}
+.rounddiv{
+    border-radius: 25px;
+    background-color: #fff;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    line-height: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    
+    margin: 164px 0 0;
+    height: 396px;
+   
+    width: 496px;
+}
+.cp{
+    font-size: large;
+    text-decoration: none;
+    
+    
+    color: black;
+    
+}
+.fp{
+    margin-left: 183px;
+    font-size: large;
+    text-decoration: none;
+}
+.ptag{
+    padding-left: 180px;
+    font-size: 20px;
+}
+.footer{
+    padding-left: 200px;
+    width: 100%;
+    float: right;
+    height: 50px;
+}
+.b2:hover{
+    opacity: 90%;
+
+}
+
+.b1:hover{
+    opacity: 90%;
+}
+.b2{
+    align-items: center;
+    justify-content: center;
+    margin-left: 133px;
+    width: 240px;
+    border: none;
+    height: 60px;
+    border-radius: 6px;
+    color: #fff;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;;
+    font-size: 25px;
+    background-color: #42b72a;
+}
+.b1{
+    width: 464px;
+    height: 53px;
+    margin-left: 11px;
+    margin-top: 15px;
+    border-radius: 6px;
+    font-size: 30px;
+    color: #fff;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;;
+    background-color: #1877f2;
+    border: 0;
+}
+.form{
+    width: 464px;
+    height: 53px;
+    margin-left: 11px;
+    margin-top: 15px;
+    border-radius: 6px;
+    font-size: larger;
+    
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+body{
+    margin: 0;
+}
